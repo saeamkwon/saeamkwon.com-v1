@@ -3,3 +3,6 @@
 
 # Ignore the build directory.
 build
+
+# Sublime 3
+*.sublime-workspace
