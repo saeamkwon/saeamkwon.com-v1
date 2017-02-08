@@ -11,18 +11,10 @@ then
 fi
 
 echo "Deleting last build."
-rm -rf public
-mkdir public
-cd public && git remote add origin git@github.com:minikwon/saeamkwon.com.git
+rm -rf build/*
 
-echo "Checking out gh-pages branch into public"
-cd public && git fetch origin/gh-pages
-
-echo "Removing existing files"
-rm -rf public/*
-
-echo "Generating site"
+echo "Generating site."
 hugo
 
 echo "Updating gh-pages branch"
-cd public && git add --all && git commit -m "Deploy `date`"
+cd build && git add --all && git commit -m "Deploy `date`"
