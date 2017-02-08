@@ -6,6 +6,7 @@ then
   exit 1;
 fi
 
+# https://gohugo.io/tutorials/github-pages-blog/
 git checkout --orphan gh-pages
 git reset --hard
 git commit --allow-empty -m "Initialize gh-pages branch"
