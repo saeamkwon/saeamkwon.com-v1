@@ -22,3 +22,6 @@ cd build
 git add --all
 git commit -m "Deploy `date`"
 git push
+
+echo ""
+echo "Yay, deployed! 😬"
