@@ -7,6 +7,8 @@ then
 fi
 
 # https://gohugo.io/tutorials/github-pages-blog/
+echo "public" >> .gitignore
+
 git checkout --orphan gh-pages
 git reset --hard
 git commit --allow-empty -m "Initialize gh-pages branch"
