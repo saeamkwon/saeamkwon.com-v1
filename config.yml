@@ -1,0 +1,7 @@
+---
+baseURL: "http://saeamkwon.com/"
+title: "Saeam Kwon"
+languageCode: "en-us"
+
+# Deploy
+publishDir: "build"
