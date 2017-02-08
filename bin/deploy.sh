@@ -17,4 +17,8 @@ echo "Generating site."
 hugo
 
 echo "Updating gh-pages branch"
-cd build && git add --all && git commit -m "Deploy `date`"
+cd build
+
+git add --all
+git commit -m "Deploy `date`"
+git push
