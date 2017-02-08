@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Saeam Kwon</title>
+    <link>http://saeamkwon.com/page/index.xml</link>
+    <description>Recent content in Pages on Saeam Kwon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://saeamkwon.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://saeamkwon.com/about</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://saeamkwon.com/about</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Illustrations</title>
+      <link>http://saeamkwon.com/illustrations</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://saeamkwon.com/illustrations</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
