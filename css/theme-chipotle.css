@@ -571,7 +571,7 @@ ul.lead li {
 /*!---------- 5. SECTIONS ----------*/
 section,
 footer {
-  padding: 96px 0;
+  padding: 54px 0;
   position: relative;
   overflow: hidden;
 }
@@ -2665,7 +2665,7 @@ button[type="submit"] .form-loading {
 }
 @media all and (min-width: 768px) {
   .feature-3 {
-    min-height: 160px;
+    min-height: 120px;
   }
 }
 .feature-3 .left,
