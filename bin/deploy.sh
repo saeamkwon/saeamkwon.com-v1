@@ -21,7 +21,7 @@ cd build
 
 git add --all
 git commit -m "Deploy `date`"
-git push
+git push -f origin HEAD
 
 echo ""
 echo "Yay, deployed! 😬"
