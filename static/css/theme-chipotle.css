@@ -2665,7 +2665,7 @@ button[type="submit"] .form-loading {
 }
 @media all and (min-width: 768px) {
   .feature-3 {
-    min-height: 160px;
+    min-height: 120px;
   }
 }
 .feature-3 .left,
