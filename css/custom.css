@@ -10,6 +10,10 @@ ul {
   list-style: none;
 }
 
+.social-links {
+  height: 20px;
+}
+
 .profile-photo {
   margin: auto;
   width: 20%;
