@@ -14,7 +14,45 @@ ul {
   list-style: none;
 }
 
-.social-links {
+.social-icons a {
+  padding-right: 10px;
+}
+
+.social-icons a svg {
+  border: 2px solid #0f0f0f;
+  border-radius: 22px;
+}
+
+.social-icons a svg:hover {
+  background-color: #0f0f0f;
+}
+
+.social-icons a svg:hover path {
+  fill: #ffffff;
+}
+
+.about-social-icons a {
+  padding-right: 10px;
+}
+
+.about-social-icons a svg {
+  border: 2px solid #ffffff;
+  border-radius: 22px;
+}
+
+.about-social-icons a svg:hover {
+  background-color: #ffffff;
+}
+
+.about-social-icons a svg path {
+  fill: #fff;
+}
+
+.about-social-icons a svg:hover path {
+  fill: #0f0f0f;
+}
+
+.footer-links {
   height: 20px;
 }
 
