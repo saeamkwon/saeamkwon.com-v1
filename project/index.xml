@@ -2,37 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Saeam Kwon</title>
-    <link>http://saeamkwon.com/project/index.xml</link>
+    <link>http://saeamkwon.com/project/</link>
     <description>Recent content in Projects on Saeam Kwon</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://saeamkwon.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://saeamkwon.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Pilotly</title>
-      <link>http://saeamkwon.com/pilotly</link>
+      <link>http://saeamkwon.com/pilotly/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://saeamkwon.com/pilotly</guid>
+      <guid>http://saeamkwon.com/pilotly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quad</title>
-      <link>http://saeamkwon.com/quad</link>
+      <link>http://saeamkwon.com/quad/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://saeamkwon.com/quad</guid>
+      <guid>http://saeamkwon.com/quad/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stroll Health</title>
-      <link>http://saeamkwon.com/stroll-health</link>
+      <link>http://saeamkwon.com/stroll-health/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://saeamkwon.com/stroll-health</guid>
+      <guid>http://saeamkwon.com/stroll-health/</guid>
       <description></description>
     </item>
     

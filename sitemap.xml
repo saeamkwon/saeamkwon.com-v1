@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://saeamkwon.com/about</loc>
+    <loc>http://saeamkwon.com/about/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://saeamkwon.com/illustrations</loc>
+    <loc>http://saeamkwon.com/illustrations/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://saeamkwon.com/pilotly</loc>
+    <loc>http://saeamkwon.com/pilotly/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://saeamkwon.com/quad</loc>
+    <loc>http://saeamkwon.com/quad/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://saeamkwon.com/stroll-health</loc>
+    <loc>http://saeamkwon.com/stroll-health/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://saeamkwon.com/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -41,6 +47,11 @@
   <url>
     <loc>http://saeamkwon.com/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://saeamkwon.com/tags/</loc>
     <priority>0</priority>
   </url>
   
